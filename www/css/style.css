@@ -1,0 +1,20 @@
+body {
+background: url("img/bg.jpg");
+}
+#resposta{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#resposta img{
+  width: 250px;
+}
+label.text-light{
+font-size: 20px;
+margin-top: 15px;
+}
+
+#btn{
+  margin-left: 100px;
+  margin-top: 15px;
+  width: 150px ;
+}
